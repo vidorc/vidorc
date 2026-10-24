@@ -1,250 +1,77 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Mayank%20Sharma&fontSize=52&color=0:0b0b0b,100:1b1035&fontColor=d8c8ff&fontAlignY=38&desc=I%20build%20autonomous%20systems%20that%20find%20you%20clients%20and%20close%20deals.&descSize=14&descColor=8f88a8&descAlignY=60&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=190&text=Mayank%20Sharma&fontSize=52&fontColor=E8E3FF&fontAlignY=38&desc=AI%20engineering%20%C2%B7%20agentic%20systems%20%C2%B7%20backend&descSize=14&descColor=B9B1D6&descAlignY=60&color=0:101014,100:292044&animation=fadeIn" width="100%" alt="Mayank Sharma — AI engineering, agentic systems, backend" />
+
+  <p>
+    <a href="https://linkedin.com/in/mayanksharma1832"><img src="https://img.shields.io/badge/LinkedIn-connect-9D7CFF?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://github.com/vidorc"><img src="https://img.shields.io/badge/GitHub-vidorc-24212F?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+    <a href="mailto:mayanksharma.dev18@gmail.com"><img src="https://img.shields.io/badge/Email-say%20hi-B8A5F5?style=flat-square&logo=gmail&logoColor=18151F" alt="Email" /></a>
+  </p>
+
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3200&pause=1100&color=B8A5F5&center=true&vCenter=true&width=650&lines=building+useful+AI+systems%2C+not+just+demos;agentic+workflows+%C2%B7+LLM+systems+%C2%B7+backend;Python+%C2%B7+FastAPI+%C2%B7+RAG+%C2%B7+Docker" alt="Building useful AI systems, not just demos" />
 </div>
 
-<br/>
+A little about me
+I'm an AI engineer interested in the overlap between agentic systems, LLM applications, and backend engineering. These days, I'm building through VAERØX and spending a lot of time on the less flashy parts of AI: retrieval quality, evaluation, deployment, retries, and systems that behave consistently.
 
+I like practical work, readable code, and infrastructure that does its job quietly.
+mayank@local ~
+────────────────────────────────────────────────────────
+focus       agentic AI · LLM systems · backend engineering
+building    VAERØX — independent AI / software work
+worked on   agent deployment · GraphRAG · financial news AI
+usual tools Python · FastAPI · PostgreSQL · Docker · Linux
+currently   retrieval · LLM evaluation · lightweight inference
+────────────────────────────────────────────────────────
+What I work on
+- Agentic systems — tool-calling, workflow execution, guardrails, and framework benchmarking.
+- LLM applications — RAG and GraphRAG, vector retrieval, evaluation, and model integrations.
+- Backend & infrastructure — APIs, data stores, containers, Linux environments, and deployment.
+- Data-heavy workflows — entity resolution, financial-news classification, batching, checkpointing, and retries.
+Experience
+Role	What I worked on
+VAERØX — Founder & Software Engineer · Jul 2026–present	Independent AI/software work across system design, APIs, and deployment.
+Harlax Software — AI Deployment Intern · Jul–Oct 2026	Benchmarked NemoClaw/OpenClaw on Debian VMs; explored NeMo Guardrails, custom REST skills, and CPU inference for small models.
+Deccan AI Experts — AI Data Specialist · May–Sep 2026	AI data work and task-focused evaluation workflows.
+Quantitative Researcher · Apr–Sep 2026	Financial-news intelligence pipeline, entity resolution, ticker mapping, and checkpointed batch processing.
+EngineX — Open Source AI Systems Engineer · May–Aug 2026	Worked with GraphRAG, vector retrieval, and workflow execution.
+Shipd — AI Challenge Engineer · Jun–Jul 2026	ML challenge datasets, grading pipelines, and reference solutions.
+Edify Equity — Financial Analyst · Mar–Apr 2026	Equity research and discounted cash-flow modelling.
+Amazon ML Summer School · Jul–Aug 2026	Structured learning across machine learning and deep learning.
+
+
+Selected work
+MarketPulse
+LLM-based financial-news impact classification, with a focus on turning unstructured reporting into more useful signals.
+
+Python · NLP · LLM APIs · Pandas
+VAERØX
+My independent AI and software engineering practice. Interested in automation that solves a real workflow problem, rather than adding an agent just for the sake of it.
+Open-source AI systems
+Work involving GraphRAG, vector retrieval, agent deployment, guardrails, and workflow execution.
+
+More code and experiments live on GitHub.
+Tools I use
+AI / LLM
+LangGraph LangChain RAG GraphRAG MCP NeMo Guardrails OpenAI API Claude API Gemini Ollama LLM evaluation
+
+Backend / data
+Python FastAPI REST APIs PostgreSQL Redis SQLite SQL
+
+Infrastructure
+Docker Linux Git GitOps AWS EC2 Oracle Cloud Proxmox
+
+Other languages
+Java JavaScript Bash
+Certifications & learning
+- Oracle Cloud Infrastructure — Data Science Professional (2025)
+- Building with the Claude API
+- Agents Course
+- Machine Learning with Python
+- Electronic Arts — Software Engineering Job Simulation (Forage)
+Outside the code
+I prefer to read the docs, build a small version, measure what breaks, and improve from there. I don't mind the unglamorous work; it's usually the part that makes a system dependable.
+
+I'm open to remote opportunities in AI engineering, LLM systems, and AI-focused backend work.
 <div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=3500&pause=1200&color=9D7CFF&center=true&vCenter=true&repeat=true&width=700&lines=agentic+ai+that+does+the+work%2C+not+just+chat.;from+raw+data+%E2%86%92+verified+leads+%E2%86%92+signed+clients.;custom+engines+%C2%B7+zero+subscriptions+%C2%B7+local+first.;scrape+%E2%86%92+research+%E2%86%92+write+%E2%86%92+send+%E2%86%92+track+%E2%86%92+repeat.)](https://git.io/typing-svg)
-
+  <sub>Gurugram, India · <a href="mailto:mayanksharma.dev18@gmail.com">mayanksharma.dev18@gmail.com</a></sub>
 </div>
-
-<br/>
-<br/>
-
-```bash
-mayank@autonomous  ~                                                ⚡
-whoami        Mayank Sharma · @vidorc · India
-role          Autonomous Systems Architect
-i build       agentic pipelines that replace your entire outbound team
-offer         end-to-end lead gen engine · 500 verified leads in 48 hours
-guarantee     if it doesn't produce leads in 7 days, you don't pay
-stack         scraping · mx verification · ai personalization · automated outreach · crm
-backend       FastAPI · Spring Boot · PostgreSQL · Redis · Docker
-cloud         AWS EC2 · Oracle Cloud · Linux
-current       ● architecting ContractorOS — 6 agents, 1 command, ₹0/month
-shipping      AI operators · copilots · automation infrastructure · quant engines
-```
-
-<br/>
-<br/>
-
-<div align="center">
-
----
-**the problem i solve**
-
-</div>
-
-<br/>
-
-most agencies and B2B teams hemorrhage time and money on three things: **finding reliable leads, writing outreach that doesn't get ignored, and managing the follow-up chaos.** they pay $500/month for tools that deliver stale data and bounced emails. they spend hours manually scraping linkedin. their pipeline leaks deals because nobody follows up.
-
-**i make all of that go away.**
-
-<br/>
-
-<div align="center">
-
----
-**how i solve it**
-
-</div>
-
-<br/>
-
-| your bottleneck | my solution | the outcome |
-|---|---|---|
-| "apollo is bleeding us dry with bad data" | custom scraper + mx record verification | verified leads, zero subscription, higher reply rates |
-| "manual prospecting eats 20 hours a week" | hunter agent — duckduckgo, playwright, free sources | 500 leads in 48 hours, crm-ready csv |
-| "we send emails but nobody replies" | ai-written emails personalized per company | under 150 words, one specific hook, one clear cta |
-| "follow-ups are a graveyard of forgotten leads" | automated sequences at t+5, t+10, t+15 days | meetings booked while you sleep |
-| "no system to track anything" | local sqlite crm + streamlit dashboard | every lead's journey from raw → won, nothing lost |
-| "we need the full engine, end to end" | ContractorOS — 6 autonomous agents in docker | pipeline runs itself, you just close |
-| "we have a custom workflow that tools can't handle" | bespoke agentic systems built from scratch | your exact workflow, automated, no compromises |
-| "we need ai integrated into our backend" | rag pipelines, mcp servers, llm orchestration | intelligence embedded where it actually matters |
-
-<br/>
-
-<div align="center">
-
----
-**the autonomous pipeline**
-
-</div>
-
-<br/>
-
-```python
-# six agents. one loop. zero humans needed until a lead replies.
-pipeline = StateGraph(ClientAcquisition)
-
-pipeline.add_node("hunter",    scrape_qualified_leads)        # google maps, duckduckgo, apify
-pipeline.add_node("verifier",  mx_lookup_and_smtp_check)      # bounce-free delivery
-pipeline.add_node("profiler",  deep_research_each_company)    # pain points, hooks, news
-pipeline.add_node("craft",     write_personalized_sequence)   # 1 initial + 3 follow-ups
-pipeline.add_node("outreach",  send_via_smtp_and_schedule)    # gmail, resend, whatever you use
-pipeline.add_node("detector",  imap_polling_reply_classifier) # positive? neutral? out-of-office?
-pipeline.add_node("crm",       track_pipeline_and_report)     # raw → replied → meeting → won
-pipeline.add_node("orchestrator", coordinate_and_retry)       # the conductor
-
-pipeline.compile()
-# scrape → verify → research → write → send → detect → track → repeat
-# you wake up to hot leads. every day.
-```
-
-<br/>
-
-`LangGraph` &nbsp; `Claude API` &nbsp; `OpenAI API` &nbsp; `Gemini` &nbsp; `Ollama` &nbsp; `Groq` &nbsp; `RAG` &nbsp; `MCP` &nbsp; `Prompt Engineering` &nbsp; `Docker`
-
-<br/>
-
-<div align="center">
-
----
-**the full stack of what i build**
-
-</div>
-
-<br/>
-
-### agentic ai & automation
-→ multi-agent systems that execute real work, not just generate text  
-→ custom copilots and ai operators embedded in your workflow  
-→ rag pipelines that ground ai in your data, not hallucinations  
-→ mcp servers connecting your tools to llms  
-
-### lead generation & outbound
-→ custom scrapers pulling verified emails, phones, and contacts  
-→ mx record + smtp handshake verification — no bounces  
-→ ai-written personalized outreach sequences  
-→ automated follow-up scheduling with reply detection  
-
-### backend & infrastructure
-→ fastapi, spring boot, microservices from scratch  
-→ postgresql, redis, docker, linux — production grade, not tutorial code  
-→ cloud deployment on aws ec2 and oracle cloud  
-
-### quant & data
-→ algorithmic trading engines with backtesting  
-→ financial signal extraction from unstructured news  
-→ real-time ml inference apis  
-
-<br/>
-
-<div align="center">
-
----
-**systems shipped**
-
-</div>
-
-<br/>
-
-| | system | business value | core stack |
-|---|---|---|---|
-| 🦾 | **ContractorOS** | agentic client acquisition pipeline — scrape → research → email → crm. all local. all free. | LangGraph · Ollama · Gmail SMTP · SQLite · Docker |
-| 🤖 | **AutoStream** | autonomous sales operator — intent routing, lead qualification, meeting booking | LangGraph · GPT-4o · FastAPI · Redis |
-| 🛡️ | **Aegis Ops** | ai-driven security incident response and threat intelligence | Agentic AI · DFIR · MCP |
-| 📈 | **MarketPulse** | market-moving intelligence extracted from news in real time | NLP · OpenAI API · Pandas |
-| ☁️ | **CloudCostIQ** | ai-powered cloud cost optimization and anomaly detection | Cloud APIs · NLP · Observability |
-| 🏎️ | **PitWall AI** | real-time f1 race strategy and analytics engine | LLM · Race Data APIs · FastAPI |
-| ⚡ | **AlgoTrader** | automated trading strategy execution with backtesting | Python · TA-Lib · Backtesting |
-| 🔮 | **InsurPredict** | real-time insurance pricing prediction — r² 0.86 | FastAPI · Scikit-learn · Docker |
-
-<br/>
-
-<div align="center">
-
----
-**technical depth**
-
-</div>
-
-<br/>
-
-### ai & agentic
-`Agentic AI` &nbsp; `Multi-Agent Systems` &nbsp; `Workflow Automation` &nbsp; `RAG` &nbsp; `MCP` &nbsp; `LangGraph` &nbsp; `LangChain` &nbsp; `Claude API` &nbsp; `OpenAI API` &nbsp; `Gemini` &nbsp; `Ollama` &nbsp; `Groq` &nbsp; `Prompt Engineering`
-
-### backend
-`FastAPI` &nbsp; `Spring Boot` &nbsp; `REST APIs` &nbsp; `JWT` &nbsp; `Hibernate` &nbsp; `Microservices`
-
-### languages
-`Python` &nbsp; `Java` &nbsp; `SQL` &nbsp; `JavaScript` &nbsp; `Bash`
-
-### infrastructure
-`Docker` &nbsp; `Linux` &nbsp; `AWS EC2` &nbsp; `Oracle Cloud` &nbsp; `Redis`
-
-### databases
-`PostgreSQL` &nbsp; `MySQL` &nbsp; `SQLite` &nbsp; `Redis`
-
-<br/>
-
-<div align="center">
-
----
-**certifications**
-
-</div>
-
-<br/>
-
-```yaml
-Building with the Claude API              Anthropic      # 2026
-OCI Generative AI Professional            Oracle
-OCI Data Science Professional             Oracle
-Red Hat System Administration             RH124 / RH134
-```
-
-<br/>
-
-<div align="center">
-
----
-**how i work**
-
-</div>
-
-<br/>
-
-```txt
-→ you tell me the niche and the goal. i deliver the pipeline.
-→ zero subscriptions. zero monthly fees. engines run on your machine.
-→ 48-hour turnaround on lead gen pipeline builds.
-→ i don't prototype. i ship production systems that run for months untouched.
-→ if the pipeline doesn't produce verified leads in 7 days, you don't pay.
-→ every engagement starts with a free 20-lead sample. no pitch. just proof.
-```
-
-<br/>
-
-<div align="center">
-
----
-**let's build something that prints money**
-
-</div>
-
-<br/>
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-9D7CFF?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vidorc)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-1b1035?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vidorc)
-[![Email](https://img.shields.io/badge/Email-Start%20a%20Project-d8c8ff?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@here.com)
-
-<br/>
-
-```txt
-send me your niche. i'll send you 20 verified leads.
-free. no strings. you'll see the quality in 48 hours.
-
-if they're solid, we build the full engine.
-if not, we part ways with zero awkwardness.
-
-your move.
-```
-
-</div>
-```
